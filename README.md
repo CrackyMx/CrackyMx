@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to create databases
 - 💞️ I’m looking to collaborate on big things that simplify things❗
 - 📫 How to reach me: <max.draws.coding@gmail.com>
+- 🛠  I´m currently working: on the construction of the moon🌑👾.
 
 <!---
 CrackyMx/CrackyMx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
